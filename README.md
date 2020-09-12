@@ -1,1 +1,2 @@
-# PixalHost-ComingSoon
+# PixalHost Website
+## Coming Soon Website
