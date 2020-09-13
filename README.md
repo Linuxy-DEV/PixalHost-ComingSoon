@@ -1,7 +1,6 @@
 # PixalHost Coming Soon Website
 ### Cloud Computing for Gaming
 
-<<<<<<< HEAD
 This is our Upcoming project and compeny of Cloud Computing Gaming Website
 Partented by Mojang Studios. Computing will be done with Google Datacenters.
 
