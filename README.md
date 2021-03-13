@@ -1,7 +1,7 @@
 # Mojang Cloud ( Coming Soon )
 ### Cloud Computing for Gaming and Websites
 
-Use for Cloud Computing Services for gaming and Websites
+Use for Cloud Computing Services for gaming and Websites for enterprise and mass scale use.
 Computing will be done with Google Backend. 1TiB+ Servers and virtualization will be used for powering 
 the infrastructure of Mojang Cloud. This is a Upcoming Mojang Studios Project.
 
