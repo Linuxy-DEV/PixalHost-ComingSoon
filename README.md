@@ -9,5 +9,6 @@ Partented by Mojang Studios. Computing will be done with Google Backend.
 This will be coming soon for Mojang Cloud. It is not the real main website!
 its coded in HTML and CSS.
 
-if you need to contact me: contact-me@linuxydev.net and Twitter 
-please be at @MojangCloud for more infomaiton about updates
+if you need to contact me: contact-me@linuxydev.net 
+
+Mojang Cloud's [Twitter](https://twitter.com/MojangCloud)
