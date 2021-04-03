@@ -1,4 +1,6 @@
-# Mojang Cloud ( Coming Soon )
+![LOGO](/img/mjc_Logo_GIT.png)
+
+### Project Mojang Cloud Info Respository
 ### Cloud Computing for Gaming and Websites
 
 Use for Cloud Computing Services for gaming and Websites for enterprise and mass scale use.
